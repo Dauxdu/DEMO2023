@@ -6,7 +6,7 @@
 
 ## Рисунок 1. Логическая схема сети
 
-![picture-1](https://github.com/Dauxdu/DEMO2023/assets/96863567/f883189b-35ab-46dd-9804-7175db459922)
+![Рисунок 1](https://github.com/Dauxdu/DEMO2023/assets/96863567/f883189b-35ab-46dd-9804-7175db459922)
 
 ## Таблица 1. Характеристики VMs
 
@@ -92,8 +92,9 @@ hostnamectl set-hostname WEB-R
 ```
 Start --> Settings --> System --> About --> Rename this PC
 ```
+![CLI Rename PC](https://github.com/Dauxdu/DEMO2023/assets/96863567/d6d43484-93d4-425a-a9c1-6ae814c855b6)
 
-> Проверить изменения можно c помощью `hostnamectl`
+> Проверить изменения в Linux можно c помощью `hostnamectl`
 
 </details>
 
@@ -236,6 +237,8 @@ Gateway 172.16.100.254
 ```
 
 ### CLI
+
+![CLI Network Connections](https://github.com/Dauxdu/DEMO2023/assets/96863567/4806d5e1-7ce2-4a0a-ac02-19ac182ba487)
 
 </details>
 
